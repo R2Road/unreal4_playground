@@ -1,3 +1,11 @@
+# For UE4
+.vs/*
+Build/*
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+
 # Prerequisites
 *.d
 
